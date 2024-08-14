@@ -1,0 +1,7 @@
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Convertion to base\Convertion to base\bin\Debug\Convertion to base.exe.config
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Convertion to base\Convertion to base\bin\Debug\Convertion to base.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Convertion to base\Convertion to base\bin\Debug\Convertion to base.pdb
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Convertion to base\Convertion to base\obj\Debug\Convertion to base.csproj.AssemblyReference.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Convertion to base\Convertion to base\obj\Debug\Convertion to base.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Convertion to base\Convertion to base\obj\Debug\Convertion to base.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Convertion to base\Convertion to base\obj\Debug\Convertion to base.pdb

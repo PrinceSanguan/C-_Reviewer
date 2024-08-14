@@ -1,0 +1,14 @@
+C:\Users\Dionisio Samillano\source\repos\pracrticeForExam\pracrticeForExam\bin\Debug\pracrticeForExam.exe.config
+C:\Users\Dionisio Samillano\source\repos\pracrticeForExam\pracrticeForExam\bin\Debug\pracrticeForExam.exe
+C:\Users\Dionisio Samillano\source\repos\pracrticeForExam\pracrticeForExam\bin\Debug\pracrticeForExam.pdb
+C:\Users\Dionisio Samillano\source\repos\pracrticeForExam\pracrticeForExam\obj\Debug\pracrticeForExam.csproj.AssemblyReference.cache
+C:\Users\Dionisio Samillano\source\repos\pracrticeForExam\pracrticeForExam\obj\Debug\pracrticeForExam.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio Samillano\source\repos\pracrticeForExam\pracrticeForExam\obj\Debug\pracrticeForExam.exe
+C:\Users\Dionisio Samillano\source\repos\pracrticeForExam\pracrticeForExam\obj\Debug\pracrticeForExam.pdb
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Cipher and Decipher\pracrticeForExam\bin\Debug\pracrticeForExam.exe.config
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Cipher and Decipher\pracrticeForExam\bin\Debug\pracrticeForExam.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Cipher and Decipher\pracrticeForExam\bin\Debug\pracrticeForExam.pdb
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Cipher and Decipher\pracrticeForExam\obj\Debug\pracrticeForExam.csproj.AssemblyReference.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Cipher and Decipher\pracrticeForExam\obj\Debug\pracrticeForExam.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Cipher and Decipher\pracrticeForExam\obj\Debug\pracrticeForExam.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Cipher and Decipher\pracrticeForExam\obj\Debug\pracrticeForExam.pdb

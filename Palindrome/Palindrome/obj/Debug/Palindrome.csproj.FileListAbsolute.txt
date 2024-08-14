@@ -1,0 +1,7 @@
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.AssemblyReference.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

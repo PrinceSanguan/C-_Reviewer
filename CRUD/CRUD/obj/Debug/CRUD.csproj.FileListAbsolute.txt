@@ -1,0 +1,7 @@
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\Dionisio Samillano\OneDrive\Desktop\c# reviewer code\CRUD\CRUD\obj\Debug\CRUD.pdb
